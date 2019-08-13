@@ -8,4 +8,4 @@ all: satzung.pdf
 	latexmk -pdf $<
 
 clean:
-	rm *.aux *.bcf *.log *.out *.pdf *.run.xml
+	latexmk -C
