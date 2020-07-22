@@ -38,7 +38,7 @@ Der Sitz des Vereins ist Berlin.
 - Die Mitgliedschaft tritt erst mit Bezahlung der Aufnahmegebühr in Kraft.
 - Der Aufnahmeantrag eines Minderjährigen bedarf der schriftlichen Einwilligung der gesetzlichen VertreterInnen.
   Mit der Einwilligung wird die Zustimmung zur Wahrnehmung der Mitgliederrechte und –pflichten durch das minderjährige Mitglied erteilt.
-  Die gesetzlichen VertreterInnen der minderjährigen Vereinsmitglieder verpflichten sich mit der Unterzeichnung des Aufnahmeantrags für die Beitragspflichten des Minderjährigen bis zur Vollendung des 18. Lebensjahrs persönlich gegenüber dem Verein zu haften.
+  Die gesetzlichen VertreterInnen der minderjährigen Vereinsmitglieder verpflichten sich mit der Unterzeichnung des Aufnahmeantrags für die Beitragspflichten der/des Minderjährigen bis zur Vollendung des 18. Lebensjahrs persönlich gegenüber dem Verein zu haften.
 
 ## Beendigung der Mitgliedschaft
 
@@ -50,7 +50,7 @@ Der Sitz des Vereins ist Berlin.
 
 - Der freiwillige Austritt erfolgt schriftlich gegenüber dem Vorstand.
 Er kann nur zum Ende eines Monats erklärt werden, wobei eine Kündigungsfrist von einem Monat gilt.
-- Der Vorstand kann eine Mitgliedschaft beenden, wenn das Mitglied trotz zweimaliger schriftlicher Mahungen mit der Begleichung von Mitgliedsbeiträgen im Rückstand ist.
+- Der Vorstand kann eine Mitgliedschaft beenden, wenn das Mitglied trotz zweimaliger schriftlicher Mahnungen mit der Begleichung von Mitgliedsbeiträgen im Rückstand ist.
 Die Streichung ist mitzuteilen.
 - Ein Mitglied kann, wenn es gegen die Vereinsinteressen gröblich verstoßen hat, aus dem Verein durch Beschluss der Mitgliederversammlung ausgeschlossen werden.
 
@@ -61,14 +61,14 @@ Aktives Wahlrecht erhält jedes Mitglied, welches ein Jahr ununterbrochen Mitgli
 ## Mitgliedsbeiträge
 
 Höhe und Fälligkeit der Aufnahme- und Mitgliedsbeiträge werden von der Mitgliedsversammlung festgelegt.
-Der Vorstand kann die Beträge in Einzellfällen ermäßigen oder erlassen, wenn besondere Gründe vorliegen.
+Der Vorstand kann die Beträge in Einzelfällen ermäßigen oder erlassen, wenn besondere Gründe vorliegen.
 
 # Mitgliederversammlung
 
 Eine ordentliche Mitgliederversammlung findet einmal jährlich statt.
 Die Einberufung und Einladung zu Mitgliederversammlungen erfolgt elektronisch mit einer Frist von mindestens vier Wochen durch den Vorstand unter Bekanntgabe der Tagesordnung.
 
-Über die Mitgliederversammlungen wird eine Beschlussfassung geführt, das den Mitgliedern spätestens zwei Wochen nach der Versammlung elektronisch zugänglich gemacht wird.
+Über die Mitgliederversammlungen wird eine Beschlussfassung geführt, die den Mitgliedern spätestens zwei Wochen nach der Versammlung elektronisch zugänglich gemacht wird.
 Die Schriftführung über die Beschlussfassung wird zu Beginn der Mitgliederversammlung durch den Vorstand bestimmt.
 Die Beschlussfassung muss von der/dem SchriftführerIn unterzeichnet werden.
 
