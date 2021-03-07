@@ -51,10 +51,10 @@ Es darf keine Person durch Ausgaben, die dem Zweck des Vereins fremd sind, oder 
 
 (1) Die Mitgliedschaft endet
 
-    a) mit dem Tod des Mitglieds
-    b) durch freiwilligen Austritt
-    c) durch Streichung von der Mitgliederliste
-    d) durch Ausschluss aus dem Verein
+  * a) mit dem Tod des Mitglieds
+  * b) durch freiwilligen Austritt
+  * c) durch Streichung von der Mitgliederliste
+  * d) durch Ausschluss aus dem Verein
 
 (2) Der freiwillige Austritt erfolgt schriftlich gegenüber dem Vorstand.
     Er kann nur zum Ende eines Monats erklärt werden, wobei eine Kündigungsfrist von einem Monat gilt.
@@ -88,19 +88,19 @@ Aktives Wahlrecht erhält jedes Mitglied, welches drei Monate ununterbrochen Mit
 
 (6) Die Mitgliederversammlung ist für die folgenden Dinge zuständig:
     
-    a) Wahl des Vorstandes
-    b) Beschlussfassung über den Jahresbericht des Vorstandes
-    c) Entlastung des Vorstandes
-    d) Beschlussfassung über den Haushaltsplan
-    e) Feststellung der Mitgliedsbeiträge
-    f) Beschlussfassung über den Widerspruch gegen einen Ausschließungsgrund des Vorstandes
+  * a) Wahl des Vorstandes
+  * b) Beschlussfassung über den Jahresbericht des Vorstandes
+  * c) Entlastung des Vorstandes
+  * d) Beschlussfassung über den Haushaltsplan
+  * e) Feststellung der Mitgliedsbeiträge
+  * f) Beschlussfassung über den Widerspruch gegen einen Ausschließungsgrund des Vorstandes
 
 ### § 6 Vorstand
 
 (1) Der Vorstand besteht aus
   
-    a) einer/einem ersten und einer/einem zweiten Vorsitzenden
-    b) einer/einem SchatzmeisterIn und einer Stellvertretung
+  * a) einer/einem ersten und einer/einem zweiten Vorsitzenden
+  * b) einer/einem SchatzmeisterIn und einer Stellvertretung
 
 (2) Der Vorstand wird durch die Mitgliederversammlung auf die Dauer von einem Jahr mit einfacher Mehrheit der abgegeben gültigen Stimmen gewählt.
 
