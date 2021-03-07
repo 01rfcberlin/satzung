@@ -11,6 +11,7 @@
 ### § 2 Zweck und Aufgaben
 
 (1) Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung.
+
 (2)  Der Verein ist frei von politischen, rassischen und konfessionellen Bindungen.
 
 (3) Zweck und Aufgabe des Vereins ist die Förderung des Roboter- bzw. Modellbaus sowie der Volks- und Berufsbildung.
